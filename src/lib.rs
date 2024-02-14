@@ -3,4 +3,4 @@ pub mod numbers;
 pub mod macros;
 
 pub use rational::Rational;
-pub use numbers::BigInteger;
+pub use numbers::BigUint;
